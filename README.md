@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone [https://github.com/your-repo/artifactory-stats.git](https://github.com/Vamsheeth/Artifactory-Repository-Stats-Summary) artifactory-stats
+   git clone https://github.com/Vamsheeth/Artifactory-Repository-Stats-Summary artifactory-stats
    cd artifactory-stats
    ```  
 2. Install dependencies:  
